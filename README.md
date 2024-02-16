@@ -1,8 +1,5 @@
 # This repository contains some of the work completed by me and another student during an advanced R course in my master's program!
 
-The code is written in R, using Rmarkdown and a pdf with the results have been generated.
-
-
 - lab 2: Functions to solve simple problems with base R <br> 
 
 ## The following labs are created as packages which might make it a bit tricky to find the code, try looking in the "R"-map in each lab!  
