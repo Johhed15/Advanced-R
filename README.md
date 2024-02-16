@@ -7,15 +7,15 @@ The code is written in R, using Rmarkdown and a pdf with the results have been g
 
 ## The following labs are created as packages which might make it a bit tricky to find the code, try looking in the "R"-map in each lab!  
 <br>
-- lab 3: Dijkstra and euclidean algorithm
-- lab 4: Two RC-class objects, one to do an linear regression and one for ridge regression
-- lab 5: A package to download data from an API and then genererate some graphs, a shiny app is also created here but is in a seperate repository named Shiny-BaDaAn
-- lab 6: Solving the knapsack problem with brute force, greedy heuristic and programming search
+- lab 3: Dijkstra and euclidean algorithm<br>
+- lab 4: Two RC-class objects, one to do an linear regression and one for ridge regression<br>
+- lab 5: A package to download data from an API and then genererate some graphs, a shiny app is also created here but is in a seperate repository named Shiny-BaDaAn<br>
+- lab 6: Solving the knapsack problem with brute force, greedy heuristic and programming search<br>
 
 <br>
 #### If you have any questions regarding the work, please contact me
 
-
+<br><br><br>
 
 
 <div align="center">
