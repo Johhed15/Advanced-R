@@ -10,6 +10,7 @@
 - lab 6: Solving the knapsack problem with brute force, greedy heuristic and programming search<br><br>
 
 <br>
+
 #### If you have any questions regarding the work, please contact me
 
 # Example of the dijkstra algortihm
