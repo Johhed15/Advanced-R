@@ -61,7 +61,7 @@ function(graph, init_node){
 
 
 
-# Example of an ridge regression-object with some functionalities
+# Example of a ridge regression-object with some simple functionalities
 
 ```R
 ridgereg <- setRefClass('ridgereg', fields = list(formula = 'formula',
