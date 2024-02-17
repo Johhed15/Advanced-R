@@ -101,7 +101,8 @@ ridgereg <- setRefClass('ridgereg', fields = list(formula = 'formula',
                             # creating the identity matrix with values from lambda instead of 1
                             Iden <- diag(x=lambda, nrow = ncol(t(.self$Xnorm) %*% .self$Xnorm))
                             
-                            .self$beta_hat <- solve(t(.self$Xnorm) %*% .self$Xnorm + Iden) %*% (t(.self$Xnorm) %*% Y)
+                            .self$beta_hat <- solve(t(.self$Xnorm) %*% .self$Xnorm + Iden) %*%
+                             (t(.self$Xnorm) %*% Y)
                             
                             # the beta parameters
                             b <- .self$beta_hat/Xsd
