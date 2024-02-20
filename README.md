@@ -2,7 +2,7 @@
 
 - lab 2: Functions to solve simple problems with base R <br> 
 
-## The following labs are created as packages which might make it a bit tricky to find the code, try looking in the "R"-map in each lab!  
+## The following labs are created as packages which might make it a bit tricky to find the code, try looking in the "R"-folder in each lab!  
 <br>
 - lab 3: Dijkstra and euclidean algorithm<br><br>
 - lab 4: Two RC-class objects, one to do an linear regression and one for ridge regression<br><br>
